@@ -1,0 +1,64 @@
+\documentclass{scrartcl}			% defines the kind of document you want to produce
+
+% Include different packages:
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{graphicx}           	% include graphics
+\usepackage{caption}	
+\usepackage{subcaption}	 
+\usepackage{hyperref}
+
+\title{Neuroprothetik Exercise \\ Template}
+\author{Korbinian Steger}
+\date{28. Oktober 2016}
+
+
+\begin{document} 					% Document begins here
+
+\maketitle
+
+\section{Heading section one}		% start a new section 
+
+This is the first section. Here you can start writing your solution to the exercise.
+
+\subsection{Heading subsection}		% start a new subsection 
+
+You can use subsections to devide bigger tasks.
+
+\subsection{Equations}
+
+\LaTeX{} is really good for working with equations. Here are 2 very popular equations by Einstein:
+
+\begin{align}						% the character behind "&" will be aligned
+E &= mc^2                                  \\%new line
+m &= \frac{m_0}{\sqrt{1-\frac{v^2}{c^2}}}
+\end{align}
+
+\subsection{Figures}
+\label{subsec_fig} %choose a label, see subsection references
+
+You can of course also import figures of various formats including .jpg and vector-based figures. Figure \ref{fig:figure} shows one big example of using \LaTeX{}.
+
+\begin{figure*}[hbpt!]					%start figure-environment
+	\centering
+	\includegraphics[]{figures/figure.jpg}
+	\captionsetup{width=\linewidth}  %choose the with of the caption
+	\caption{Here goes the caption for the figure.}
+	\label{fig:figure} %choose a label, see subsection references
+\end{figure*}
+
+\subsection{References}
+
+You can use references for referring to sections, subsections, figures and so on. As already used in \ref{subsec_fig} you can use this feature to easily refer to other parts of your document.
+% use "\label{...}" to define a label and "\ref{...}" to refer to this label.
+
+\section{Heading section two}
+
+This is a short template to get you startet with \LaTeX{}. See 
+\href{http://www.latex4ei.de/latex#}{latex4ei}
+for further information.
+
+\end{document}
