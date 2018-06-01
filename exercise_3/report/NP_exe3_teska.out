@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Implementation of following functions}{}% 1
+\BOOKMARK [1][-]{section.2}{Solve Functions}{}% 2
+\BOOKMARK [1][-]{section.3}{The Leaky Integrate and Fire Neuron}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Results interpretation}{section.3}% 4
+\BOOKMARK [1][-]{section.4}{Plots}{}% 5
+\BOOKMARK [2][-]{subsection.4.1}{Plots of functions implemented in section 1}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.2}{Plots of the rectified 50 Hz sinusoidal input}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.3}{Plots of the stimulated LIF Neuron}{section.4}% 8
