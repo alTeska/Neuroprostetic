@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.24)  8 JUN 2018 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.12.24)  8 JUN 2018 17:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**NP_exe3_teska.tex
-(./NP_exe3_teska.tex
+**NP_exe4_teska.tex
+(./NP_exe4_teska.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -728,15 +728,12 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 \c@FancyVerbLine=\count125
 \FV@StepNumber=\count126
 \FV@OutFile=\write3
-) (./NP_exe3_teska.aux
+) (./NP_exe4_teska.aux
 
-LaTeX Warning: Label `subsec_fig2_0' multiply defined.
-
-
-LaTeX Warning: Label `subsec_fig2_3' multiply defined.
+LaTeX Warning: Label `fig3' multiply defined.
 
 )
-\openout1 = `NP_exe3_teska.aux'.
+\openout1 = `NP_exe4_teska.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -803,9 +800,9 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-(./NP_exe3_teska.out) (./NP_exe3_teska.out)
+(./NP_exe4_teska.out) (./NP_exe4_teska.out)
 \@outlinefile=\write4
-\openout4 = `NP_exe3_teska.out'.
+\openout4 = `NP_exe4_teska.out'.
 
 \c@lstlisting=\count134
 LaTeX Font Info:    Try loading font information for T1+lmss on input line 27.
@@ -841,157 +838,168 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 27.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 28.
 
-(/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 31.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 40.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 40.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 40.
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--45
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
-
-! Undefined control sequence.
-l.48 ...ep, the accumulated step error of $ \Detla
-                                                   $ t gets squared.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 56.
-
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-<1_1.png, id=61, 1300.86pt x 505.89pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+[3] <1_1.png, id=78, 1187.3961pt x 626.21954pt>
 File: 1_1.png Graphic file (type png)
  <use 1_1.png>
-Package pdftex.def Info: 1_1.png used on input line 107.
-(pdftex.def)             Requested size: 520.3348pt x 202.3524pt.
+Package pdftex.def Info: 1_1.png used on input line 102.
+(pdftex.def)             Requested size: 419.14603pt x 221.05296pt.
 
-Overfull \hbox (53.9238pt too wide) in paragraph at lines 106--109
-|  []  
- []
-
-[3 <./1_1.png>] <1_2.png, id=68, 1300.86pt x 505.89pt>
+<1_2.png, id=80, 1208.3544pt x 626.21954pt>
 File: 1_2.png Graphic file (type png)
  <use 1_2.png>
-Package pdftex.def Info: 1_2.png used on input line 119.
-(pdftex.def)             Requested size: 520.3348pt x 202.3524pt.
+Package pdftex.def Info: 1_2.png used on input line 112.
+(pdftex.def)             Requested size: 426.54422pt x 221.05296pt.
 
-Overfull \hbox (53.9238pt too wide) in paragraph at lines 118--121
+Overfull \hbox (3.49457pt too wide) in paragraph at lines 111--114
 |  []  
  []
 
-<1_3.png, id=69, 1300.86pt x 505.89pt>
-File: 1_3.png Graphic file (type png)
- <use 1_3.png>
-Package pdftex.def Info: 1_3.png used on input line 129.
-(pdftex.def)             Requested size: 520.3348pt x 202.3524pt.
+[4 <./1_1.png> <./1_2.png>] <2.png, id=87, 1213.05196pt x 607.42935pt>
+File: 2.png Graphic file (type png)
 
-Overfull \hbox (53.9238pt too wide) in paragraph at lines 128--131
+<use 2.png>
+Package pdftex.def Info: 2.png used on input line 126.
+(pdftex.def)             Requested size: 431.84885pt x 216.24602pt.
+
+Overfull \hbox (8.7992pt too wide) in paragraph at lines 125--128
 |  []  
  []
 
-[4 <./1_2.png> <./1_3.png>] <2_1.png, id=76, 722.7pt x 722.7pt>
-File: 2_1.png Graphic file (type png)
- <use 2_1.png>
-Package pdftex.def Info: 2_1.png used on input line 141.
-(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
-File: 2_1.png Graphic file (type png)
+[5 <./2.png>] <3.png, id=94, 1219.9176pt x 626.21954pt>
+File: 3.png Graphic file (type png)
+ <use 3.png>
+Package pdftex.def Info: 3.png used on input line 139.
+(pdftex.def)             Requested size: 439.17001pt x 225.43886pt.
 
-<use 2_1.png>
-Package pdftex.def Info: 2_1.png used on input line 149.
-(pdftex.def)             Requested size: 238.49173pt x 238.49173pt.
- [5 <./2_1.png>] <3_1.png, id=84, 1084.05pt x 722.7pt>
-File: 3_1.png Graphic file (type png)
+Overfull \hbox (16.12036pt too wide) in paragraph at lines 138--141
+|  []  
+ []
 
-<use 3_1.png>
-Package pdftex.def Info: 3_1.png used on input line 160.
-(pdftex.def)             Requested size: 346.90309pt x 231.26872pt.
- <3_2.png, id=85, 1084.05pt x 722.7pt>
-File: 3_2.png Graphic file (type png)
- <use 3_2.png>
-Package pdftex.def Info: 3_2.png used on input line 168.
-(pdftex.def)             Requested size: 346.90309pt x 231.26872pt.
+<4.png, id=95, 1208.3544pt x 626.21954pt>
+File: 4.png Graphic file (type png)
+ <use 4.png>
+Package pdftex.def Info: 4.png used on input line 149.
+(pdftex.def)             Requested size: 435.00726pt x 225.43886pt.
 
-<3_3.png, id=86, 1084.05pt x 722.7pt>
-File: 3_3.png Graphic file (type png)
- <use 3_3.png>
-Package pdftex.def Info: 3_3.png used on input line 176.
-(pdftex.def)             Requested size: 357.73761pt x 238.49173pt.
+Overfull \hbox (11.95761pt too wide) in paragraph at lines 148--151
+|  []  
+ []
 
-<3_4.png, id=87, 1084.05pt x 722.7pt>
-File: 3_4.png Graphic file (type png)
- <use 3_4.png>
-Package pdftex.def Info: 3_4.png used on input line 184.
-(pdftex.def)             Requested size: 357.73761pt x 238.49173pt.
+[6 <./3.png> <./4.png>] <5.png, id=104, 1238.34645pt x 626.21954pt>
+File: 5.png Graphic file (type png)
 
+<use 5.png>
+Package pdftex.def Info: 5.png used on input line 160.
+(pdftex.def)             Requested size: 445.80438pt x 225.43886pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Overfull \hbox (22.75473pt too wide) in paragraph at lines 159--162
+|  []  
+ []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
-[6 <./3_1.png> <./3_2.png>] [7 <./3_3.png> <./3_4.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (./NP_exe3_teska.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
-Package rerunfilecheck Info: File `NP_exe3_teska.out' has not changed.
-(rerunfilecheck)             Checksum: 53EA37B7E34F1E0DA9F43D31A9A37248;572.
+<6.png, id=105, 1231.4808pt x 626.21954pt>
+File: 6.png Graphic file (type png)
+ <use 6.png>
+Package pdftex.def Info: 6.png used on input line 170.
+(pdftex.def)             Requested size: 443.33276pt x 225.43886pt.
+
+Overfull \hbox (20.28311pt too wide) in paragraph at lines 169--172
+|  []  
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+[7 <./5.png> <./6.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+ (./NP_exe4_teska.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package rerunfilecheck Info: File `NP_exe4_teska.out' has not changed.
+(rerunfilecheck)             Checksum: 4C1820837E7236C2FF7FB9BB9D7A1EF2;586.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 11220 strings out of 493029
- 170353 string characters out of 6136233
- 323208 words of memory out of 5000000
- 14579 multiletter control sequences out of 15000+600000
- 46694 words of font info for 43 fonts, out of 8000000 for 9000
+ 11166 strings out of 493029
+ 169338 string characters out of 6136233
+ 325557 words of memory out of 5000000
+ 14521 multiletter control sequences out of 15000+600000
+ 56435 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,46p,367b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
-/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on NP_exe3_teska.pdf (7 pages, 1900572 bytes).
+ 41i,8n,46p,787b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
+/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
+Output written on NP_exe4_teska.pdf (7 pages, 2216385 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 127 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 100 words of extra memory for PDF output out of 10000 (max. 10000000)
 
