@@ -7,7 +7,7 @@ for i=1:channels
     N = 8                               % Filter order
                                         % sampling rate f_s
 
-    % Generate new filter
+    % Generate new filterhttp://localhost:8888/lab
     [newFilter(i), f_r(i), Q(i)] = own_filter(f_go, f_gu, N, f_s);
 
     % Apply the filter on the signal
